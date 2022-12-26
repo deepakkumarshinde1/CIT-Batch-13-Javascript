@@ -1,0 +1,11 @@
+1992 ... 1993 Basic 
+2005 => ES5 => ECMA Script V5
+2009 => Node JS => Google 
+     => NPM => GitHub 
+2015 => ES6  => ES2015 => ECMA Script V6 => Angular, React, Veu
+
+        => Desktop 
+        => Mobile
+        => Web App
+        => Server Application
+        => Server API
