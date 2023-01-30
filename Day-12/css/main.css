@@ -1,0 +1,10 @@
+.main-bg-image {
+  background-image: url("../images/background.png");
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+.pointer {
+  cursor: pointer;
+}
