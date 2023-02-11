@@ -1,6 +1,6 @@
 function _element(element) {
   var _e = element;
-  element = document.querySelectorAll(element);
+  element = document.querySelectorAll(element); //[]
   if (element === null || element.length === 0) {
     throw new Error(
       `Element '${_e}' is null i.e '${_e}' not available in html`
@@ -17,7 +17,7 @@ function _value(element) {
 
 function _html(element, data) {
   element = _element(element);
-  element.innerHTML = data;
+  element[0].innerHTML = data;
 }
 
 function _getFromData(form) {
