@@ -1,0 +1,6 @@
+/^[a-zA-Z ]+$/g => Deepakkumar Shivaji Shinde
+/^Dee.*$/g => deep , deea, dee1234
+
+/^[+][1-9]{2}[6-9]{1}[0-9]{9}$/g => +918007070845
+
+/^[a-zA-Z0-9]+[a-zA-Z._0-9]+@[a-z]{3,}[.][a-z]{2,}$/g => deepak_123@gmail.com
